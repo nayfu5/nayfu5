@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sufyan
 - 👀 I’m a Front-end Web Developer
-- 🌱 I’m currently learning HTML, CSS and JS
 - 💻 My repos will mostly contain projects built from https://www.frontendmentor.io/
 - 📫 You can also check out www.linkedin.com/in/sufyan-shahid730
